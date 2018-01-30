@@ -2,8 +2,8 @@
 from alipay import AliPay
 import qrcode  # 导入模块   
 alipay = AliPay(
-    appid=2017051207221985,
-    app_notify_url=https91vps.club20170526freenom,
+    appid=2088802315176438,
+    app_notify_url=Lipling.com,
     app_private_key_path=app_private_key_path.txt,
     alipay_public_key_path=alipay_public_key_path.txt  # 支付宝的公钥，验证支付宝回传消息使用，不是你自己的公钥,
 )
